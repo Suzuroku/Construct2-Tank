@@ -1,4 +1,4 @@
-# Construct2-Shooting《異形》
+# Construct2-Tank《坦克》
 2D 塔防遊戲。阻止坦克抵達紅屋。 [用途 : 作品集]
 # 操作：
 - 建立防禦角色 ➤ 點擊畫面藍圈
